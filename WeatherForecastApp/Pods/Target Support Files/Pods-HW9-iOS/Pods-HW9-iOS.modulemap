@@ -1,0 +1,6 @@
+module Pods_HW9_iOS {
+  umbrella header "Pods-HW9-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

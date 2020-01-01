@@ -1,0 +1,7 @@
+target 'HW9-iOS' do
+  pod "SwiftSpinner"
+  pod "Alamofire", "~> 4.9.1"
+  pod 'SwiftyJSON', '~> 4.0'
+  pod 'Toast-Swift'
+  pod 'Charts'
+end
